@@ -8,4 +8,7 @@
 出典：「食品営業許可施設一覧（推奨データセットA-1）（令和3年12月31日現在）」（大阪市）
 https://www.city.osaka.lg.jp/contents/wdu290/opendata/#cat-all_data-00000382
 
+データURL  
+https://geolonia.github.io/style-demo-source/osaka_city_food_business_20211231.json
+
 
