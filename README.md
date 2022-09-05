@@ -12,3 +12,9 @@ https://www.city.osaka.lg.jp/contents/wdu290/opendata/#cat-all_data-00000382
 https://geolonia.github.io/style-demo-source/osaka_city_food_business_20211231.json
 
 
+### 高松市 市立駐車場
+出典：オープンデータ「高松市 市立駐車場」を加工して作成
+https://opendata.smartcity-takamatsu.jp/ckan/dataset/municipal_parking
+
+データURL  
+https://geolonia.github.io/style-demo-source/takamatsu-car-parking.json
