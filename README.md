@@ -18,3 +18,10 @@ https://opendata.smartcity-takamatsu.jp/ckan/dataset/municipal_parking
 
 データURL  
 https://geolonia.github.io/style-demo-source/takamatsu-car-parking.json
+
+### 和歌山県道路規制情報
+出典：和歌山県オープンデータカタログサイト「和歌山県道路規制情報　GeoJSONファイル」
+https://data.bodik.jp/dataset/300004_080300_doro_kisei/resource/e2eb3bf1-c42c-438a-a0b2-9704914bdd34
+
+データURL
+https://wakayamaken.geocloud.jp/webgis/OpenData/Download/GeoJSON/7/0
