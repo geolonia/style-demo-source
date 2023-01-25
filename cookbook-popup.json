@@ -1,0 +1,77 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "スタジオA",
+        "description": "プロフェッショナルな撮影が行えるスタジオです。広々としたスペースと高品質な設備が特長です。",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.766247,
+          35.681298
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "スタジオB",
+        "description": "ナチュラルな雰囲気のスタジオで、自然光が差し込む大きな窓が特徴です。",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.703422,
+          35.694331
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "スタジオC",
+        "description": "ユニークなデザインが魅力のスタジオで、独創的な撮影が可能です。",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.701334,
+          35.656287
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "title": "スタジオD",
+        "description": "スタイリッシュな内装が特徴のスタジオで、ファッション撮影やプロダクト撮影におすすめです。",
+        "marker-size": "medium",
+        "marker-color": "#FF0000",
+        "stroke": "#FFFFFF",
+        "stroke-width": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          139.772229,
+          35.692763
+        ]
+      }
+    }
+  ]
+}
